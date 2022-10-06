@@ -7,3 +7,4 @@
 
   
 
+![Discord Banner 2](https://discordapp.com/api/guilds/1027637699231887399/widget.png?style=banner2)
