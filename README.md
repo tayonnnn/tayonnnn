@@ -1,5 +1,5 @@
                                                             Hi 👋, I'm tayonnnn
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayonnnn&show_icons=true&theme=calm&card_width=200&line_height=20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayonnnn&show_icons=true&theme=calm&card_width=200&line_height=10)
  
  
  
